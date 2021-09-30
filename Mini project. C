@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define Max 5000
+#define Max 6000
 
 void Toadd(char a[], char b[], char p[])
 
